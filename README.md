@@ -1,4 +1,11 @@
 # WindowsForms
+---
+Nicolaus Copernicus University
+Faculty of Physics, Astronomy and Informatics
+---
+https://www.fizyka.umk.pl/wfaiis/?q=node/822
+
+
 
 #Colors
 - set global settings (save Color values, window dimension and position, actions)
