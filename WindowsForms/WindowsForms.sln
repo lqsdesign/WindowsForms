@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csproj", "{C5C93421-FC92-45AF-AE8C-403575A31557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBar", "ProgressBar\ProgressBar.csproj", "{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C5C93421-FC92-45AF-AE8C-403575A31557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5C93421-FC92-45AF-AE8C-403575A31557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5C93421-FC92-45AF-AE8C-403575A31557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
