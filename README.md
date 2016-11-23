@@ -13,5 +13,12 @@ Colors:
 - Forms.Trackbar (set properties, set actions)
 
 ProgressBar:
-- Form.ProgressBar (set value from trackbar)
-- Form.Trackbar
+- Forms.ProgressBar (set value from trackbar)
+- Forms.Trackbar
+
+PictureBox:
+- Forms.MenuStrip (menu bar)
+- Forms.OpenFileDialog (loading jpg)
+- Forms.PictureBox (set image, show fileName via label)
+- Forms.PrintDocument (set orientation)
+- Forms.BackgroundWorker (run RunWorkerAsync)

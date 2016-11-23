@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBar", "ProgressBar\ProgressBar.csproj", "{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBox", "PictureBox\PictureBox.csproj", "{4E1A8853-692B-41B6-8449-4350DD630E33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC7AA947-160D-4BA8-B0A2-64A8763BFEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1A8853-692B-41B6-8449-4350DD630E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1A8853-692B-41B6-8449-4350DD630E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1A8853-692B-41B6-8449-4350DD630E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1A8853-692B-41B6-8449-4350DD630E33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
