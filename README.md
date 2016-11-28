@@ -6,6 +6,12 @@ Faculty of Physics, Astronomy and Informatics
 https://www.fizyka.umk.pl/wfaiis/?q=node/822
 
 
+ButtonsMatrix:
+- Forms.Buttons (create buttons with For loop, "board chees")
+
+Canvas:
+- Paint() (using Graphics, fill form using Math.Sin, Math.Cos)
+- Random() (using random number generator)
 
 Colors:
 - set global settings (save Color values, window dimension and position, actions)
